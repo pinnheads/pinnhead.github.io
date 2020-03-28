@@ -1,7 +1,12 @@
 # Personal website
 
 # To Do
-    <ol>
+<html>
+    <body>
+        <ol>
         <li>Make the Website Responsive using Bootstrap</li>
         <li>Add animation using Javascript<li>
-    </ol>
+        </ol>
+    </body>    
+</html>
+    
