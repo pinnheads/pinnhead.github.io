@@ -67,7 +67,6 @@ a.navbar-brand {
     font-weight: 700;
     font-size: 2rem;
     padding: 0;
-    padding-top: s%;
     padding-left: 50px;
 }
 .intro-name{
@@ -96,7 +95,7 @@ a.navbar-brand {
     }
     .title-image{
         width: 200px;
-        background-color: #fff;
+        background-color: #181A1B;
         margin: 0;
     }
     .intro-name{
@@ -158,6 +157,10 @@ a.navbar-brand {
 .card{
     margin: 5%;
 }
+.card-img-top{
+    min-height: 200px;
+    max-height: 200px;
+}
 
 /* Contact Section */
 #contact-section {
@@ -188,6 +191,10 @@ a i{
 @media (max-width:1000px) {
     .contact-detail{
         font-size: 1rem;
+    }
+    .card-img-top {
+        min-height: 150px;
+        max-height: 150px;
     }
 }
 
