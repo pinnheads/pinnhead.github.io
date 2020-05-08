@@ -18,7 +18,7 @@
             <li><a href="https://iconscout.com/icons/node-js" target="_blank">Node Js Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a></li>
             <li><a href="https://iconscout.com/icons/mysql" target="_blank">Mysql Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a></li>
             <li><a target="_blank" href="https://icons8.com/icons/set/git">Git icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></li>
-            <li><a target="_blank" href="https://icons8.com/icons/set/mongodb">MongoDB icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a><li>
+            <li><a target="_blank" href="https://icons8.com/icons/set/mongodb">MongoDB icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></li>
             <li><a target="_blank" href="https://icons8.com/icons/set/nodejs">Nodejs icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></li>
         </ul>
     </body>
