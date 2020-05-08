@@ -16,8 +16,10 @@
             <li><a href="https://iconscout.com/icons/css" target="_blank">Css Icon</a> by <a href="https://iconscout.com/contributors/pixel-icons">Pixel Icons</a> on <a href="https://iconscout.com">Iconscout</a></li>
             <li><a href="https://iconscout.com/icons/js" target="_blank">Js Icon</a> by <a href="https://iconscout.com/contributors/vorillaz" target="_blank">Vorillaz</a></li>
             <li><a href="https://iconscout.com/icons/node-js" target="_blank">Node Js Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a></li>
-            <li><a href="https://iconscout.com/icons/flutter" target="_blank">Flutter Icon</a> by <a href="https://iconscout.com/contributors/maninderkaur" target="_blank">Maninder Kaur</a></li>
             <li><a href="https://iconscout.com/icons/mysql" target="_blank">Mysql Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a></li>
+            <li><a target="_blank" href="https://icons8.com/icons/set/git">Git icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></li>
+            <li><a target="_blank" href="https://icons8.com/icons/set/mongodb">MongoDB icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a><li>
+            <li><a target="_blank" href="https://icons8.com/icons/set/nodejs">Nodejs icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></li>
         </ul>
     </body>
 </html>
