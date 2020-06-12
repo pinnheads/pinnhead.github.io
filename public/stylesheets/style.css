@@ -1,77 +1,93 @@
-body, html{
+body,
+html {
     font-family: 'Roboto',
-    sans-serif;
+        sans-serif;
     height: 100%;
     margin: 0;
     scroll-behavior: smooth;
 }
-#navbar{
+
+.btn {
+    box-shadow: 5px 5px 8px #888888;
+}
+
+#navbar {
     padding-top: 4%;
     padding-left: 7%;
     padding-right: 7%;
 }
+
 #landing-page {
     padding: 0px;
     height: 100%;
 }
-.headings{
+
+.headings {
     border-bottom: 5px solid #4cd3c2;
     position: relative;
     padding-bottom: 1%;
     font-family: 'Montserrat',
-    sans-serif;
+        sans-serif;
     font-size: 2rem;
 }
+
 /* Navbar */
-nav{
+nav {
     background-color: #f8eeee;
 }
-#navbar-content{
+
+#navbar-content {
     padding-right: 5%;
 }
+
 a.navbar-brand {
     font-family: 'Roboto',
-    sans-serif;
-    font-size: 1.5rem;
+        sans-serif;
+    font-size: 2rem;
+    text-transform: uppercase;
     padding-right: 5%;
     padding-left: 3%;
 }
+
 .nav-item {
     padding: 0 18px;
     font-size: 1.25rem;
 }
 
 /* Title Section */
-#title{
+#title {
     background-color: #f8eeee;
 }
-.title-section{
-    padding: 14.3% ;
+
+.title-section {
+    padding: 14.3%;
     padding-top: 12%;
 }
 
-.intro-image{
+.intro-image {
     text-align: right;
 }
 
-.title-image{
+.title-image {
     width: 300px;
     background-color: #181A1B;
     border-radius: 100%;
     margin-right: 50px;
 }
-#intro{
+
+#intro {
     border-left: 1px solid black;
     font-family: 'Roboto',
-    sans-serif;
+        sans-serif;
     font-weight: 700;
     font-size: 2rem;
     padding: 0;
     padding-left: 50px;
 }
-.intro-name{
+
+.intro-name {
     font-family: 'Sacramento',
-    cursive;
+        cursive;
     margin: 0;
     font-size: 5rem;
     font-weight: bold;
@@ -83,6 +99,7 @@ a.navbar-brand {
         text-align: center;
         padding: 0 0;
     }
+
     #intro {
         margin: 0 20px;
         padding-left: 0;
@@ -93,51 +110,58 @@ a.navbar-brand {
         border: 0;
         border-top: 1px solid black;
     }
-    .title-image{
+
+    .title-image {
         width: 200px;
         background-color: #181A1B;
         margin: 0;
     }
-    .intro-name{
+
+    .intro-name {
         font-size: 4rem;
     }
 
     .intro-image {
-        
+
         text-align: center;
         padding-top: 90px;
         padding-bottom: 30px;
     }
+
     .down-icon {
         right: 47%;
     }
 }
 
 /* About Me */
-#about-section{
+#about-section {
     padding: 3% 10%;
 }
-.about{
+
+.about {
     padding: 2% 5%;
     font-size: 1.2rem;
 }
-.about-description{
+
+.about-description {
     padding-top: 3%;
     padding-bottom: 3%;
     line-height: 2;
 }
-.skill-heading{
+
+.skill-heading {
     margin-top: 40px;
 }
 
-.skill-svg{
+.skill-svg {
     width: 90%;
 }
 
-.loc-icon{
+.loc-icon {
     margin-top: 2%;
 }
-.skill-icon{
+
+.skill-icon {
     width: 50px;
     margin: 8% 4%;
 }
@@ -147,17 +171,22 @@ a.navbar-brand {
     padding: 3% 10%;
     background-color: #f2f2f2;
 }
-.project-container{
+
+.project-container {
     padding: 5%;
     text-align: center;
 }
-.project-link{
+
+.project-link {
     margin: 1%;
 }
-.card{
+
+.card {
     margin: 5%;
+    box-shadow: 10px 10px 8px #888888;
 }
-.card-img-top{
+
+.card-img-top {
     min-height: 200px;
     max-height: 200px;
 }
@@ -166,32 +195,40 @@ a.navbar-brand {
 #contact-section {
     padding: 3% 10%;
 }
-.contact-description{
+
+.contact-description {
     line-height: 2;
 }
-.contact{
+
+.contact {
     margin: 5%;
 }
-.contact-svg{
+
+.contact-svg {
     width: 90%;
     margin-top: 7%;
 }
-.pro-social{
+
+.pro-social {
     text-align: center;
 }
-a i{
+
+a i {
     margin: 5%;
     text-decoration: none;
     color: black;
 }
-.contact-detail{
+
+.contact-detail {
     text-align: center;
     font-size: 1.5rem;
 }
+
 @media (max-width:1000px) {
-    .contact-detail{
+    .contact-detail {
         font-size: 1rem;
     }
+
     .card-img-top {
         min-height: 150px;
         max-height: 150px;
@@ -199,14 +236,16 @@ a i{
 }
 
 /* Footer */
-#footer-section{
+#footer-section {
     background-color: #eb4559;
 }
-.footer{
+
+.footer {
     text-align: center;
     /* font-size: 3rem; */
     padding: 3%;
 }
+
 .social-icon {
     margin: 20px 10px;
 }
